@@ -24,4 +24,26 @@ a {
   text-decoration: none;
   color: #078080;
   background-color: #fef6e4;
+
+  /* Task 1 */
+  /*
+  border-style: solid;
+  border-width: 4px;
+  border-color: #078080;
+  */
+
+  border: solid 4px #078080;
+  padding: 12px 8px;
+  margin: 16px 12px;
+
+
+  /* Task 2 */
+  display: block;
+
+  /* Task 3 */
+  width: 120px;
+
+  /* Task 4 */
+  box-sizing: border-box;
+
 }
